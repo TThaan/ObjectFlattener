@@ -1,0 +1,9 @@
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\bin\Debug\netcoreapp3.1\ObjectFlattener.deps.json
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\bin\Debug\netcoreapp3.1\ObjectFlattener.dll
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\bin\Debug\netcoreapp3.1\ObjectFlattener.pdb
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\obj\Debug\netcoreapp3.1\ObjectFlattener.csprojAssemblyReference.cache
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\obj\Debug\netcoreapp3.1\ObjectFlattener.AssemblyInfoInputs.cache
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\obj\Debug\netcoreapp3.1\ObjectFlattener.AssemblyInfo.cs
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\obj\Debug\netcoreapp3.1\ObjectFlattener.csproj.CoreCompileInputs.cache
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\obj\Debug\netcoreapp3.1\ObjectFlattener.dll
+C:\Users\Jan_PC\Documents\GitHub\ObjectFlattener\ObjectFlattener\obj\Debug\netcoreapp3.1\ObjectFlattener.pdb
